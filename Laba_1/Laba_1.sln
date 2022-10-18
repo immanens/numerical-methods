@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba_1", "Laba_1\Laba_1.csproj", "{17DCC8CA-47BB-4F55-B683-54C95643125C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba_2", "Laba_2\Laba_2.csproj", "{F2800291-4607-4A39-AC12-880B64D56B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DCC8CA-47BB-4F55-B683-54C95643125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DCC8CA-47BB-4F55-B683-54C95643125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DCC8CA-47BB-4F55-B683-54C95643125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DCC8CA-47BB-4F55-B683-54C95643125C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2800291-4607-4A39-AC12-880B64D56B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2800291-4607-4A39-AC12-880B64D56B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2800291-4607-4A39-AC12-880B64D56B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2800291-4607-4A39-AC12-880B64D56B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
